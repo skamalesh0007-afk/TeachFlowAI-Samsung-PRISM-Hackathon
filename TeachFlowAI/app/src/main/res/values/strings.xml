@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TeachFlow AI</string>
+    <string name="accessibility_description">TeachFlow observes Android UI structure and records semantic user actions for learned workflows.</string>
+</resources>
