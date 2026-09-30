@@ -68,9 +68,11 @@ TeachFlow must not capture or automate passwords, OTPs, payment credentials, CVV
 ## Suggested hackathon demo
 
 Start with a simple public/non-sensitive target workflow such as:
-- search an item in an e-commerce app
+- open camera
 - select a result
-- add it to cart
+  ## Demo Video
+
+[Watch TeachFlow AI Demo](https://drive.google.com/file/d/1Oiwj1C7UoNRWHww788LOxNNxMi0L34RM/view?usp=drivesdk)
 
 Do not automate payment or login.
 
